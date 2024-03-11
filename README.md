@@ -298,8 +298,8 @@ possible:
 
 ## 📞 Contact Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-@ladunjexa-2CA5E0?style=social&logo=telegram&logoColor=000000)](https://t.me/Roaring4123)
-[![Discord](https://img.shields.io/badge/Discord-ladunjexa-7289da?style=flat&logo=discord&logoColor=b0c0c0&labelColor=2c2f33)](Roaring0983)
+[![Telegram](https://t.me/Roaring4123)
+[![Discord](Roaring0983)
 
 
 ## 📋 License
